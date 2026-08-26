@@ -1,2 +1,3 @@
 date,skill,model,input_tokens,output_tokens,cache_read,cache_creation
 2026-08-26,heartbeat,kimi-default,264,0,0,0
+2026-08-26,fetch-tweets,kimi-default,294,493,0,0
