@@ -1,14 +1,18 @@
 {
   "skill": "fetch-tweets",
-  "last_analyzed": "2026-08-26T20:24:28Z",
+  "last_analyzed": "2026-08-26T23:35:48Z",
   "quality_score": 4,
-  "assessment": "Structured, verifiable tweet curation with direct links and engagement metrics; useful signal but could go deeper on actionable takeaways.",
+  "assessment": "Structured, specific tweet curation with engagement metrics and direct links; useful signal but limited deeper synthesis.",
   "flags": [],
-  "avg_score": 3.33,
+  "avg_score": 3.5,
   "history": [
     {
       "date": "2026-08-26",
       "score": 2
+    },
+    {
+      "date": "2026-08-26",
+      "score": 4
     },
     {
       "date": "2026-08-26",
