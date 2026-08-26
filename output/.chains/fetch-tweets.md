@@ -1,39 +1,25 @@
-ℹ️ Top Tweets — from:stambouli_o1 OR from:USronaldcarter (2026-08-26)
-
 *Top Tweets — from:stambouli_o1 OR from:USronaldcarter (2026-08-26)*
-_Mixed bag — stambouli_o1 is building the "Crypto AWS" narrative on Base while USronaldcarter chases the memecoin breakout._
+_Two parallel bets — one account builds Base equity-token rails, the other chases memecoin runners; a single viral shitpost bridges the tone._
 
-*o1_exchange legitimacy & milestones*
-1. x.com/stambouli_o1 — o1-exchange:native lands an AA rating on DefiLlama & Forgd's new token-ratings dashboard, placed right after ETH.
-Likes: 876 | RTs: 110 | Replies: 149
-[View tweet](https://x.com/stambouli_o1/status/2013184471428628735)
+*Base equity-token push*
+1. x.com/stambouli_o1 — Frames equity-token launches on Base as removing market-hour, broker, and jurisdiction frictions.
+Likes: 595 | RTs: 74 | Replies: 67
+[View tweet](https://x.com/stambouli_o1/status/2091870376103944327)
 
-2. x.com/stambouli_o1 — Positions o1-exchange:native alongside crypto OGs (ETH, CR, SOL) and calls the ceiling "sky is the limit."
-Likes: 33 | RTs: 2 | Replies: 6
-[View tweet](https://x.com/stambouli_o1/status/2092644814181343494)
+2. x.com/stambouli_o1 — Promotes Base app 24/7 onchain stock/commodities trading with a geo-restrictions caveat.
+Likes: 134 | RTs: 12 | Replies: 38
+[View tweet](https://x.com/stambouli_o1/status/2092284336045199405)
 
-*Base stock-token whale activity*
-3. x.com/stambouli_o1 — After comparing the Base app with o1_exchange mobile, notes he / o1_exchange are the biggest doxxed whales of Base stock tokens.
-Likes: 627 | RTs: 86 | Replies: 66
-[View tweet](https://x.com/stambouli_o1/status/2092298072852185562)
+*Memecoin runner calls*
+3. x.com/USronaldcarter — Teases a '100x cook' and asks who wants the alpha.
+Likes: 195 | RTs: 15 | Replies: 93
+[View tweet](https://x.com/USronaldcarter/status/2092621083492933906)
 
-4. x.com/stambouli_o1 — Claims to be the biggest holder of $NVDAc on Base, tying o1_exchange's fate to Base's stock-token traction.
-Likes: 564 | RTs: 84 | Replies: 55
-[View tweet](https://x.com/stambouli_o1/status/2092645270219591709)
+4. x.com/USronaldcarter — Calls $biscotti a 0→$8M in 40min runner and declares bull season.
+Likes: 69 | RTs: 3 | Replies: 17
+[View tweet](https://x.com/USronaldcarter/status/2092668085698175058)
 
-5. x.com/stambouli_o1 — Promotes 24/7 onchain trading of stocks and commodities inside the Base app.
-Likes: 554 | RTs: 79 | Replies: 72
-[View tweet](https://x.com/stambouli_o1/status/2092442408801722490)
-
-*Memecoin breakout calls*
-6. x.com/USronaldcarter — Flags $biscotti running from 0 to $8M market cap in 40 minutes and declares "bull season is here."
-Likes: 1663 | RTs: 89 | Replies: 137
-[View tweet](https://x.com/USronaldcarter/status/2092390579044860018)
-
-7. x.com/USronaldcarter — Contrasts PEPE's $0 → $1.5B run at $30k BTC with the current $78k BTC environment.
-Likes: 28 | RTs: 3 | Replies: 15
-[View tweet](https://x.com/USronaldcarter/status/2092673026860978447)
-
-8. x.com/USronaldcarter — Calls out a Solana memecoin that went from 0 to $10M in 3 hours.
-Likes: 36 | RTs: 6 | Replies: 8
-[View tweet](https://x.com/USronaldcarter/status/2092670038507405716)
+*Founder culture*
+5. x.com/stambouli_o1 — Shares a PPAP-style designer video; high engagement, no product claim.
+Likes: 660 | RTs: 98 | Replies: 79
+[View tweet](https://x.com/stambouli_o1/status/2092262247447896070)
