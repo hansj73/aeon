@@ -1,0 +1,16 @@
+{
+  "skill": "token-movers",
+  "last_analyzed": "2026-08-27T13:31:30Z",
+  "quality_score": 2,
+  "assessment": "Polished token snapshot with precise figures, but no source citation or timestamp makes the specific claims unverifiable.",
+  "flags": [
+    "unverifiable_claim"
+  ],
+  "avg_score": 2,
+  "history": [
+    {
+      "date": "2026-08-27",
+      "score": 2
+    }
+  ]
+}
