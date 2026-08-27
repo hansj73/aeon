@@ -31,5 +31,9 @@
     "consecutive_failures": 0,
     "success_rate": 1,
     "last_quality_score": 4
+  },
+  "narrative-tracker": {
+    "last_dispatch": "2026-08-27T15:29:16Z",
+    "last_status": "dispatched"
   }
 }
