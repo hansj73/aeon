@@ -8,5 +8,7 @@ DRB is +19.1% over 24h, but volume is only 0.37× the past-week average — a th
 
 Price $0.000141 (+19.1% 24h) | Liq $1.25M | Vol $558K (0.37× 7d)
 Buys/Sells 663/556 (ratio 1.19) | Whales: 300
+Price $0.000140 (+20.5% 24h) | Liq $1.2M | Vol $560.3K (0.37× 7d)
+Buys/Sells 672/558 (ratio 1.20) | Whales: 19
 
 Chart: https://www.geckoterminal.com/base/pools/0x5116773e18a9c7bb03ebb961b38678e45e238923

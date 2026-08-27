@@ -2,6 +2,7 @@
 
 **Verdict:** CONSOLIDATING — 6.4% in 24h on 0.4× average volume.
 **Verdict:** CONSOLIDATING — +19.1% in 24h, but volume is running at 0.37× the past-week average.
+**Verdict:** CONSOLIDATING — +20.5% in 24h on 0.37× average volume; whale activity (19 trades) keeps it off a quiet read.
 
 ## 24h at a glance
 
@@ -51,9 +52,28 @@ Most other posts were low-engagement repeats of the contract address / "Grok has
 
 ## Context
 - The token's social narrative is anchored to its Coinbase listing and "Grok wallet" memes; on-chain price action has decoupled from volume, so the near-term catalyst is mostly sentiment/rotation rather than a new protocol event.
+| Price | $0.000140 | +20.5% | — |
+| Liquidity | $1.2M | — | — |
+| Volume (24h) | $560.3K | — | 0.37× |
+| Buys / Sells | 672 / 558 | ratio 1.20 | — |
+| Whale trades (≥$1k) | 19 | — | — |
+| FDV | $13.8M | — | — |
+
+## Trend
+- **7d:** -1.4% (range-bound) (~7d)
+- **30d:** +314.2% (parabolic) (~30d)
+
+## What changed
+
+Price is up +20.5% over 24h, but volume is running at 0.37× of the prior-week mean — the move is happening on thinner participation.
+Whale-sized trades (≥$1k) total 19 in the feed (10 buys, 9 sells).
+- sell $27,094 @ $0.000143 · 13:17 UTC
+- buy $9,471 @ $0.000143 · 10:41 UTC
+- buy $7,418 @ $0.000149 · 10:54 UTC
 
 ---
 *Chart: https://www.geckoterminal.com/base/pools/0x5116773e18a9c7bb03ebb961b38678e45e238923*
 *Contract: 0x3ec2156d4c0a9cbdab4a016633b7bcf6a8d68ea2 | Chain: base*
 *Sources: gt=ok · ds=ok · xai=skip · treasury=skip*
 *Sources: gt=ok · ds=ok · xai=ok · treasury=skip*
+*Sources: gt=ok · ds=ok · xai=fail · treasury=skip*
