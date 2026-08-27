@@ -1,18 +1,15 @@
-ℹ️ Top Tweets — from:stambouli_o1 OR from:USronaldcarter (2026-08-26)
+ℹ️ Top Tweets — from:stambouli_o1 OR from:USronaldcarter
 
-*Top Tweets — from:stambouli_o1 OR from:USronaldcarter (2026-08-26)*
-_Memecoin trench frustration dominates the fresh posts — Carter vents twice about runners and sidelined traders; stambouli_o1 trades a light reply with Kyle._
+*Top Tweets — from:stambouli_o1 OR from:USronaldcarter (2026-08-27)*
 
-*Memecoin trench frustration*
-1. x.com/USronaldcarter — Calls out traders for not letting a single memecoin run to $10M before rotating
-Likes: 137 | RTs: 15 | Replies: 42
-[View tweet](https://x.com/USronaldcarter/status/2092716229274239426)
+_o1 Exchange launchpad metrics dominate the fresh posts — two claims of top share on Base stock-token volume and sequencer revenue._
 
-2. x.com/USronaldcarter — Notes a cat coin went parabolic while everyone chased Elon-dog-themed $SPARKY and $DOGGYSTYLE
-Likes: 46 | RTs: 6 | Replies: 17
-[View tweet](https://x.com/USronaldcarter/status/2092729678985367627)
+*o1 Exchange launchpad dominance*
 
-*o1 social banter*
-3. x.com/stambouli_o1 — Replies to @kyle with a blue-diamond "brought u followers lol"
-Likes: 11 | RTs: 0 | Replies: 5
-[View tweet](https://x.com/stambouli_o1/status/2092608320506909103)
+1. x.com/stambouli_o1 — Reports o1 Launchpad captures 21% of all Base stock-token volume and 81% of B20 launchpad volume market share.
+Likes: 618 | RTs: 63 | Replies: 45
+[View tweet](https://x.com/stambouli_o1/status/2092758953994174829)
+
+2. x.com/stambouli_o1 — Quotes 7-day stats: o1 launchpad contributed 52 ETH in gas fees, $7M in Base sequencer revenue, or 12.7% of Base's total.
+Likes: 563 | RTs: 76 | Replies: 42
+[View tweet](https://x.com/stambouli_o1/status/2092803361514955009)
