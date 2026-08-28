@@ -7,3 +7,4 @@ date,skill,model,input_tokens,output_tokens,cache_read,cache_creation
 2026-08-27,fetch-tweets,kimi-default,294,434,0,0
 2026-08-27,token-movers,kimi-default,293,263,0,0
 2026-08-27,narrative-tracker,kimi-default,414,1026,0,0
+2026-08-28,heartbeat,kimi-default,264,207,0,0
