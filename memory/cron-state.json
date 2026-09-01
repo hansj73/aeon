@@ -34,14 +34,14 @@
   },
   "narrative-tracker": {
     "last_dispatch": "2026-09-01T11:48:00Z",
-    "last_status": "dispatched",
+    "last_status": "failed",
     "last_success": "2026-08-28T00:35:27Z",
-    "total_runs": 14,
+    "total_runs": 15,
     "total_successes": 2,
-    "total_failures": 12,
-    "consecutive_failures": 12,
-    "success_rate": 0.14,
+    "total_failures": 13,
+    "consecutive_failures": 13,
+    "success_rate": 0.13,
     "last_quality_score": 4,
-    "last_failed": "2026-09-01T01:25:13Z"
+    "last_failed": "2026-09-01T11:48:49Z"
   }
 }
